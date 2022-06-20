@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+ 
+   
+}
+table {
+    margin: auto;
+    margin-top: 34px;
+    font-size: 30px;
+   
+   
+}
+
+td{
+    padding: 10px;
+    background-color: greenyellow;
+}
+
+
+
+input{
+   
+
+    font-size: 24px;
+    background-color: coral;
+    border-radius: 20px;
+  
+
+}
+.ritu{
+    background-color: coral;
+    width: 300px;
+    height: 400px;
+    border-radius: 30px;
+}
